@@ -1,0 +1,30 @@
+{
+    "art": [
+        {
+            "src": "https://live.staticflickr.com/65535/48775517161_2dfbefb33b_k.jpg",
+            "thumbnail": "https://live.staticflickr.com/65535/48775517161_2dfbefb33b_k.jpg",
+            "thumbnailWidth": 320,
+            "thumbnailHeight": 212,
+            "tags": [
+                {
+                    "value": "Antibes(Cap D'Antibes)",
+                    "title": "Rose in black"
+                }
+            ],
+            "caption": "Life in pink(@rlcdev)"
+        },
+        {
+            "src": "https://live.staticflickr.com/65535/48775505066_24745b88c2_k.jpg",
+            "thumbnail": "https://live.staticflickr.com/65535/48775505066_24745b88c2_k.jpg",
+            "thumbnailWidth": 320,
+            "thumbnailHeight": 212,
+            "tags": [
+                {
+                    "value": "Antibes(port Vauban)",
+                    "title": "Play with bubbles"
+                }
+            ],
+            "caption": "Bubbles party@rlcdev)"
+        }
+    ]
+}
